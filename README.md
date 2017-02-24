@@ -1,3 +1,3 @@
 # Smartbrains
 INoD
-This platfrorm is made to devekope a controlling codes of Davis. 
+This platfrorm is made to develope a controlling codes of Davis. 
